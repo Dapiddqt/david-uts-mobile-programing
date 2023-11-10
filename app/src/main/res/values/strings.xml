@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">List Film Marvel terlaris</string>
+    <string name="players_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string name="about">About</string>
+    <string name="me">Nama Saya</string>
+    <string name="email">email</string>
+
+
+
+    <string-array name="data_nama">
+        <item>David kurnia rahman</item>
+    </string-array>
+    <string-array name="data_akun">
+        <item>dapiddqt"gmail.com</item>
+    </string-array>
+    <integer-array name="data_foto">
+        <item>@drawable/poto_utbk</item>
+    </integer-array>
+
+    <string-array name="data_name">
+        <item>Captain America The Winter Soldier</item>
+        <item>Black Panther</item>
+        <item>The Avengers</item>
+        <item>Guardians of the Galaxy</item>
+        <item>Thor Ragnarok</item>
+        <item>Avengers Endgame</item>
+        <item>Avengers Infinity War</item>
+        <item>SpiderMan No Way Home</item>
+        <item>SpiderMan Homecoming</item>
+        <item>ShangChi and the Legend of the Ten Rings</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Captain America The Winter Soldier\nGenre : Aksi, Petualangan, SainsFiksi\nTahun Rilis : 2014 \nRating : 7.8\nSutradara : Anthony dan Joe Russo\n\n\n
+            Suatu hari, Direktur SHIELD Nick Fury diserang oleh pembunuh misterius yang disebut The Winter Soldier. Fury memperingatkan Rogers bahwa SHIELD telah ditumbangkan oleh musuh-musuhnya.
+        </item>
+
+        <item>Black Panther\nGenre : Aksi, Petualangan, SainsFiksi\nTahun Rilis : 2018 \nRating : 7.3\nSutradara : Ryan Coogler\n\n\n
+            Sebelum menjadi raja, TChalla harus menghadapi tantangan untuk berhak bertakhta dari faksi-faksi di negaranya sendiri. Ketika dua musuh bersekongkol untuk menghancurkan Wakanda, Black Panther harus bekerja sama dengan Agen CIA Everett K. Ross dan anggota Dora Milaje, pasukan khusus Wakanda, untuk mencegah Wakanda terseret ke dalam perang dunia.
+        </item>
+
+        <item>The Avengers\nGenre : Aksi, SainsFiksi\nTahun Rilis : 2012 \nRating : 8.0\nSutradara : Joss Whedon\n\n\n
+            Avengers terdiri dari Dr. Bruce Banner/Hulk, Tony Stark/Iron Man, Steve Rogers/Captain America, Thor,  Clint Barton/Hawkeye dan Natasha Romanoff/Black Widow. Bersama-sama mereka bergabung untuk menghentikan Loki dan mencegah para alien ganas memasuki bumi.
+        </item>
+
+        <item>Guardians of the Galaxy\nGenre : Aksi, Petualangan, Komedi\nTahun Rilis : 2014 \nRating : 8.0\nSutradara : James Gunn\n\n\n
+            Suatu hari, Peter menemukan bola perak. Bola itu sangat diinginkan banyak orang, terutama Ronan. Bola perak ternyata mengandung Infinity Stones yang sangat kuat. Ronan berusaha menggunakannya untuk keserakahan.
+        </item>
+
+        <item>Thor Ragnarok\nGenre : Aksi, Petualangan, Komedi\nTahun Rilis : 2017 \nRating : 7.9\nSutradara : Taika Watiti\n\n\n
+            Setelah peristiwa Avengers: Age of Ultron dan empat tahun setelah peristiwa Thor: The Dark World, Thor ditawan di planet Sakaar tanpa palunya, Mjolnir. Dia harus memenangkan duel gladiator melawan Hulk dan membentuk tim yang terdiri dari Hulk, Valkyrie, Thor, dan Loki untuk menghentikan Hela yang jahat dan malapetaka peradaban Asgardian yang disebut Ragnarök.
+        </item>
+
+        <item>Iron Man\nGenre : Aksi, Petualangan, SainsFiksi\nTahun Rilis : 2008 \nRating : 7.9\nSutradara : Jon Favreau\n\n\n
+            Ketika Tony Stark ditugaskan untuk memberikan presentasi senjata ke unit Irak yang dipimpin oleh Letnan Kolonel James Rhodes, dia diserang musuh. Dia sekarat dengan tubuh penuh pecahan peluru dan aki mobil menempel di jantungnya. Untuk bertahan hidup, dia menemukan cara untuk mengecilkan baterai dan menemukan bahwa baterai itu dapat memberi daya pada sesuatu yang lain. Lahirlah Iron Man. Tony menggunakan perangkat primitif untuk melarikan diri dari gua di Irak.
+        </item>
+
+        <item>Avengers Endgame\nGenre : Aksi, Petualangan, Drama\nTahun Rilis : 2019 \nRating : 8.4\nSutradara : Anthony dan Joe Russo\n\n\n
+            Avengers mencari cara lain yang potensial ketika mereka bertemu Scott Lang alias Ant-Man. Scott menjabarkan tentang ilmu fisika kuantum yang memungkinkan mereka kembali ke masa lalu dan mengumpulkan Infinity Stones sebelum Thanos. Atas bantuan Tony Stark dan Bruce Banner, sebuah mesin waktu portabel tercipta. Mereka dibagi dalam beberapa kelompok untuk mengambil batu Infinity Stones di tempat yang direncanakan.
+        </item>
+
+        <item>Avengers Infinity War\nGenre : Aksi, Petualangan, SainsFiksi\nTahun Rilis : 2018 \nRating : 8.4\nSutradara : Anthony dan Joe Russo\n\n\n
+            Dalam film ini, Thanos memulai perburuannya untuk mendapatkan objek paling kuat di alam semesta, Infinity Stones. Dengan Space Stone yang diberikan oleh Loki dan Power Stone, Thanos mengirim Ebony Maw dan Cull Obsidian untuk mengambil Time Stone dari Doctor Strange di New York.
+        </item>
+
+        <item>Spiderman No Way Home\nGenre : Aksi, Petualangan, Fantasi\nTahun Rilis : 2021 \nRating : 8.2\nSutradara : Jon Watts\n\n\n
+            Melanjutkan cerita dari Spider-Man: Far From Home, film ini mengisahkan kehidupan Peter Parker/Spider-Man yang terungkap identitasnya. Ingin merahasiakan identitasnya kembali, Peter meminta bantuan Doctor Strange. Tetapi, ketika mantra Strange gagal, Peter harus menghadapi lima musuh baru yang mematikan, yakni Green Goblin, Dr. Octopus, Electro, Lizard, dan Sandman.
+        </item>
+
+        <item>Spiderman Homecoming\nGenre : Aksi, Petualangan, SainsFiksi\nTahun Rilis : 2017 \nRating : 7.4\nSutradara : Jon Watts\n\n\n
+            Peter Parker/Spider-Man mulai menavigasi identitas barunya sebagai pahlawan super. Senang dengan pengalamannya dengan Avengers, Peter kembali ke rumah, di mana dia tinggal bersama Bibi May, di bawah pengawasan mentor barunya Tony Stark.
+        </item>
+
+        <item>ShangChi and the Legend of the Ten Rings\nGenre : Aksi, Petualangan, Fantasi\nTahun Rilis : 2021 \nRating : 7.4\nSutradara : Destin Daniel Cretton\n\n\n
+            Untuk mencari lebih banyak kekuatan, Wenwu menjelajah hutan bambu magis dan bertemu seorang wanita bernama Ying Li yang kemudian menjadi istrinya. Mereka memiliki seorang putra bernama Shang-Chi.
+        </item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/__1</item>
+        <item>@drawable/__2</item>
+        <item>@drawable/__3</item>
+        <item>@drawable/__4</item>
+        <item>@drawable/__5</item>
+        <item>@drawable/__6</item>
+        <item>@drawable/__7</item>
+        <item>@drawable/__8</item>
+        <item>@drawable/__9</item>
+        <item>@drawable/__10</item>
+    </integer-array>
+</resources>
